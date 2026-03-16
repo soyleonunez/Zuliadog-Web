@@ -1,3 +1,16 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "app-mockup",
+      "description": "Zuliadog App Mockup showing pet profile and medical records",
+      "imageUrl": "https://picsum.photos/seed/zuliadog1/600/800",
+      "imageHint": "mobile app screen pet care"
+    },
+    {
+      "id": "hero-dog",
+      "description": "Happy dog and owner",
+      "imageUrl": "https://picsum.photos/seed/zuliadog2/800/600",
+      "imageHint": "happy dog owner"
+    }
+  ]
 }
