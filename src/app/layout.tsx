@@ -8,6 +8,12 @@ export const metadata: Metadata = {
   description:
     'Zulia Dog es la app para dueños de mascotas. Lleva el historial clínico, vacunas, citas y emergencias de tu mascota desde tu teléfono. Disponible en Google Play.',
   keywords: ['veterinaria', 'mascotas', 'historial clínico', 'perros', 'gatos', 'app veterinaria', 'zulia dog'],
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/assets/images/appicon.png',
+  },
+  manifest: '/manifest.json',
   openGraph: {
     title: 'Zulia Dog - El bienestar de tu mascota en un solo lugar',
     description: 'Gestiona la salud de tu mascota con Zulia Dog. Historial clínico digital, citas, emergencias y más.',
