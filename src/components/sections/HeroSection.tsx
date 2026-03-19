@@ -70,7 +70,7 @@ export function HeroSection() {
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[400px] h-[400px] bg-[var(--zd-blue)] rounded-full opacity-[0.06] blur-[80px]" />
 
             {/* Phone — z-10, between back and front elements */}
-            <div className="relative animate-scale-in z-10">
+            <div className="relative animate-scale-in z-10 pb-20">
 
               {/* Floating elements — Anchored to the phone! */}
               {/* 1. Top-Left: Dog Illustration (Touching phone) */}
